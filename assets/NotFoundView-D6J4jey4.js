@@ -1,0 +1,1 @@
+import{d as e,f as t,i as n,l as r,o as i,r as a,u as o}from"./index-BXRUNl0n.js";var s=e({__name:`NotFoundView`,setup(e){return(e,s)=>(t(),r(i,null,[o(n),o(a,{title:`Page not found`,"page-tag":``,"sub-title":`The page you are looking for could not be found.`})],64))}});export{s as default};
