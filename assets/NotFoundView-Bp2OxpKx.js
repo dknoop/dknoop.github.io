@@ -1,0 +1,1 @@
+import{g as e,h as t,i as n,l as r,m as i,p as a,r as o}from"./index-ClO_5Ojy.js";var s=t({__name:`NotFoundView`,setup(t){return(t,s)=>(e(),a(r,null,[i(n),i(o,{title:`Page not found`,"page-tag":``,"sub-title":`The page you are looking for could not be found.`})],64))}});export{s as default};
